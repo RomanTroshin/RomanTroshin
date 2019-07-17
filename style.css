@@ -1,0 +1,200 @@
+body {
+	background: #191970;
+	margin: 0;
+}
+body {
+	background: url(images/fon4.jpg);
+	-moz-background-size: 100%;
+	/* Firefox 3.6+ */
+	-webkit-background-size: 100%;
+	/* Safari 3.1+ и Chrome 4.0+ */
+	-o-background-size: 100%;
+	/* Opera 9.6+ */
+	background-size: 100%;
+	/* Современные браузеры */
+}
+#container {
+	background: url(images/fon3.jpg) no-repeat;
+	width: 1100px;
+	margin: 0 auto;
+	background: #FFE4B5;
+	text-align: center;
+}
+header {
+	padding: 45px 0 20px 40px;
+	text-align: center;
+	background-color: 191970;
+	background: url(images/fon4.jpg) no-repeat;
+	-moz-background-size: 100%;
+	/* Firefox 3.6+ */
+	-webkit-background-size: 100%;
+	/* Safari 3.1+ и Chrome 4.0+ */
+	-o-background-size: 100%;
+	/* Opera 9.6+ */
+	background-size: 100%;
+	/* Современные браузеры */
+}
+header a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: "Times New Roman", "Arial Narrow";
+}
+marquee {
+font-size: 25px;	
+color: #FFE4B5;	
+text-align: center;
+}
+#menu {
+	background-color: #000000;
+	padding: 1px 1px;
+	
+	text-align: center;
+	
+	display: block;
+    
+    text-align: center;
+    
+    text-decoration: none;
+}
+#menu a {
+	color: Khaki;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Times New Roman", "Myriad Pro";
+}
+#menu a:hover {
+	
+	 background-color: #4682B4;
+}
+#sidebar {
+	float: center;
+	--width: 0px;
+	padding: 20px 0 0 0px;
+	margin: 0;
+	text-align: center;
+}
+h1 {
+	margin: 0px;
+	color: #000000;
+	font-size: 24px;
+	font-family: "Georgia", "Myriad Pro";
+	font-weight: normal;
+}
+p {
+	color: #000000;
+	font-size: 15px;
+	margin: 30px 0 0px 0;
+	text-align: center;
+	margin: 5px 0 5px 0;
+}
+h2 {
+	color: #000000;
+	font-size: 15px;
+	margin: 30px 0 15px 0;
+	text-align: center;
+}
+#soderzhanie {
+	color: #3b7687;
+	text-align: center;
+	margin: 100px 100 300px 50;
+}
+
+
+
+
+article {
+	margin: 50 50 50 50px;
+	padding: 0px 0px 0px 0;
+	color: #444444;
+	font-family: "Georgia";
+	font-size: 13px;
+	line-height: 18px;
+	text-align: center;
+}
+article a {
+	color: #3b7687;
+	text-decoration: none;
+}
+article a:hover {
+	color: #444444;
+}
+#of1 {
+	width: 1000px;
+	margin: 0 auto;
+}
+#YMapsID {
+	margin: auto;
+}
+}
+#of2 {
+	margin: auto;
+}
+#of3 {
+	text-align: justify;
+	margin: 30px 0 175px 0;
+}
+#of4 {	
+	margin: 40px 0 0px 0;
+}
+#shrcentr {
+	text-align: center;	
+	}
+
+#perabout {
+	font-family: "Georgia";
+	font-size: 16px;
+	width: 170px;
+	margin: 0 auto;
+	margin: 30px 0 30px 60;
+	}	
+#table {
+	text-align: justify;
+	margin: 30px 0 20px 0;
+}
+#dwlprice {
+	text-align: center;
+	margin: 30px 0 293px 0;
+}
+#sh1 {
+	text-align: justify;
+	margin-left-side 100px;
+	color: #000000;
+	font-size: 15px;
+}
+#sh2 {
+	text-align: Left;
+	margin-left-side 100px;
+	margin: 70px 0 40px 0;
+}
+#ban {
+	margin: 0px 0 0px 0;
+	
+}
+#Count {
+	margin: 15px 0 0px 0;
+}
+footer {
+	padding: 6px 40px 6px 40px;
+	background: #000000;
+	font-family: "Lucida Sans Unicode";
+	color: #F0E68C;
+	font-size: 11px;
+	text-align: right;
+	padding: 100 px 100 0px 0px;
+	margin: 65px 0 20px 0;
+}
+footer a {
+	text-decoration: none;
+	color: #F0E68C;
+}
+footer a:hover {
+	color: #F0E68C;
+}
+.separator {
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.active {
+    background-color: #4682B4;
+}
